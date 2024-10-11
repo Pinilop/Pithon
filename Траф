@@ -1,0 +1,3 @@
+awe = 2
+qwer = 3 
+print("awe+qwer") 
